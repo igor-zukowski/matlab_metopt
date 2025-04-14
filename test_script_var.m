@@ -1,3 +1,1 @@
-test_var = 115;
-
-disp(test_var)
+model(1,2,3,4);
